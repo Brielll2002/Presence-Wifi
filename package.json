@@ -1,0 +1,18 @@
+{
+  "name": "ponto-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "getmac": "^6.6.0",
+    "network": "^0.7.0",
+    "node-libnmap": "^0.2.15",
+    "ping": "^0.4.4"
+  }
+}
