@@ -43,7 +43,7 @@ function main(){
     //                   V E R I F I C A Ç Ã O                     //
     /////////////////////////////////////////////////////////////////
 
-    const subnet = trimmedSubnet // Sub-rede do seu Wi-Fi
+    const subnet = trimmedSubnet // Sub-rede do Wi-Fi
     const startIp = 1 // primeiro octeto do intervalo de IP a ser verificado
     const endIp = 254 // último octeto do intervalo de IP a ser verificado
 
