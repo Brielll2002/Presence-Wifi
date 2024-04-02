@@ -87,4 +87,4 @@ function main(){
 
 // inicia/reinicia a operação
 main()
-setInterval(main, 120000);
+setInterval(main, 600000);
