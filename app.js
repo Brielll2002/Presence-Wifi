@@ -3,7 +3,7 @@ const { exec } = require("child_process")
 const network = require('network')
 
 function main(){
-    //hora de busca pelo dispositívos
+    //tempo de busca pelos dispositívos
     let time = new Date()
     let hour = time.getHours()
     let min = time.getMinutes()
