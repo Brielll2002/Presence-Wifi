@@ -1,1 +1,1 @@
-- Baixe o arquivo e inicie no seu VSCode e veja o IP e Endereço MAC de quem está conectado à mesma rede que você
+- Baixe o arquivo e inicie no seu VSCode e veja o IP e Endereço MAC de quem está conectado à mesma rede que você(dependendo do firewall da rede, não funciona)
